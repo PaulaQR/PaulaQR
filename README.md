@@ -3,7 +3,7 @@
 
 - Actualmente ando trabajando en [MD-LINKS](https://github.com/PaulaQR/BOG004-md-links)
 
-- Actualmente estoy en un Bootcamp llamado LABORATORIA, Empoderando a las mujeres para que trabajen y prosperen en el mundo de la tecnología. **Aprendiendo JAVASCRIPT| HTML | CSS**
+- Estoy aprendiendo más en un Bootcamp llamado LABORATORIA, Empoderando a las mujeres para que trabajen y prosperen en el mundo de la tecnología. **Aprendiendo JAVASCRIPT| HTML | CSS**
 
 - He colaborado en proyectos como [Social-Network](https://github.com/PaulaQR/BOG004-social-network)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 Mis proyectos se encuentran en: [https://paulaqr.github.io/Proyecto/Portafolio/](https://paulaqr.github.io/Proyecto/Portafolio/)
 
-- Preguntame por **Figma | JAVASCRIPT | HTML | CSS |SCRUM**
+- Preguntame por **Figma | JAVASCRIPT | HTML | CSS**
 
 - 📫 Puedes buscarme en **mquinterorodriguez22@gmail.com**
 
