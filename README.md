@@ -1,5 +1,6 @@
 <h1 align="center">Hola! soy Maria Paula Quintero Rodriguez</h1>
 <h3 align="center">Estudiante como Frontend Developer | Una apasionada por la Ilustración & el Diseño</h3>
+<h4 align="center">  Colombiana | 24 años </h4>
 
 - Actualmente ando trabajando en [MD-LINKS](https://github.com/PaulaQR/BOG004-md-links)
 
