@@ -2,9 +2,9 @@
 <h3 align="center">Estudiante como Frontend Developer | Una apasionada por la Ilustración & el Diseño</h3>
 <h4 align="center">  Colombiana | 24 años </h4>
 
-- Actualmente ando trabajando en [MD-LINKS](https://github.com/PaulaQR/BOG004-md-links)
+- Actualmente ando trabajando en [veretinaria-react](https://github.com/PaulaQR/veterinaria-react)
 
-- Estoy aprendiendo más en un Bootcamp llamado LABORATORIA, Empoderando a las mujeres para que trabajen y prosperen en el mundo de la tecnología. **Aprendiendo JAVASCRIPT| HTML | CSS**
+- Soy Egresada de un Bootcamp llamado LABORATORIA, Empoderando a las mujeres para que trabajen y prosperen en el mundo de la tecnología. **Aprendiendo JAVASCRIPT| HTML | CSS**
 
 - He colaborado en proyectos como [Social-Network](https://github.com/PaulaQR/BOG004-social-network)
 
