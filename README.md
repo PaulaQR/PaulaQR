@@ -1,6 +1,6 @@
 <h1 align="center">Hola! soy Maria Paula Quintero Rodriguez</h1>
 <h3 align="center">Egresada del Bootcamp Laboratoria como Desarrolladora UX - UI  | Diseñadora Análoga & Digital</h3>
-<h4 align="center">  Colombiana | 24 años </h4>
+<h4 align="center">  Colombiana | 26 años </h4>
 
 - Actualmente ando trabajando en [veretinaria-react](https://github.com/PaulaQR/veterinaria-react)
 
