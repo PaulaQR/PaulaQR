@@ -1,18 +1,19 @@
 <h1 align="center">Hola! soy Maria Paula Quintero Rodriguez</h1>
-<h3 align="center">Egresada del Bootcamp Laboratoria como Desarrolladora UX - UI  | Diseñadora Análoga & Digital</h3>
+<h3 align="center">Terminé la carrera de Diseño UX-UI en CODERHOUSE</h3>
+<h3 align="center">Egresada del Bootcamp Laboratoria como DESARROLLADORA WEB</h3>
 <h4 align="center">  Colombiana | 26 años </h4>
 
-- Actualmente ando trabajando en [veretinaria-react](https://github.com/PaulaQR/veterinaria-react)
+- Actualmente ando trabajando en [veretinaria-react](https://github.com/PaulaQR/Portfolio2024)
 
-- Soy Egresada de un Bootcamp llamado LABORATORIA, Empoderando a las mujeres para que trabajen y prosperen en el mundo de la tecnología. **Aprendiendo JAVASCRIPT| HTML | CSS**
+- trabajando actualmente con: [Tikipal](https://tikipal.com.co/)
 
-- He colaborado en proyectos como [Social-Network](https://github.com/PaulaQR/BOG004-social-network)
+- He colaborado en proyectos como: [Social-Network](https://github.com/PaulaQR/BOG004-social-network)
 
-- También he participado en este proyecto [Memory Match](https://github.com/PaulaQR/BOG004-memory-match)
+- El último proyecto fue [Panaderia Colombiana]([https://github.com/PaulaQR/BOG004-memory-match](https://panaderiacol.netlify.app/))
 
 - 👨‍💻 Mis proyectos se encuentran en: [https://paulaqr.github.io/Proyecto/Portafolio/](https://paulaqr.github.io/Proyecto/Portafolio/)
 
-- Preguntame por **Figma | JAVASCRIPT | HTML | CSS**
+- Tengo conocimientos con **Figma | HTML | CSS | Suite Adobe | Procreate | Arte Digital | SCRUM | Comunity Manager  **
 
 - 📫 Puedes buscarme en **mquinterorodriguez22@gmail.com**
 
