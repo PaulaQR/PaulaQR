@@ -3,7 +3,7 @@
 <h3 align="center">Egresada del Bootcamp Laboratoria como DESARROLLADORA WEB</h3>
 <h4 align="center">  Colombiana | 26 años </h4>
 
-- Actualmente ando trabajando en [veretinaria-react](https://github.com/PaulaQR/Portfolio2024)
+- Actualmente ando trabajando en [Portafolio](https://github.com/PaulaQR/Portfolio2024)
 
 - trabajando actualmente con: [Tikipal](https://tikipal.com.co/)
 
